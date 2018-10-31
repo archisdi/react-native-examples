@@ -1,0 +1,19 @@
+{
+  "name": "react-native-examples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "intro": "cd ./00-introduction && npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/archisdiningrat/react-native-examples.git"
+  },
+  "author": "archie isdiningrat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/archisdiningrat/react-native-examples/issues"
+  },
+  "homepage": "https://github.com/archisdiningrat/react-native-examples#readme"
+}
